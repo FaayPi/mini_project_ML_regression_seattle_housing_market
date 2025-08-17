@@ -2,6 +2,8 @@
 
 This project explores **machine learning regression** techniques to predict house prices in King County, Washington (Seattle area) using a dataset of ~22,000 properties sold between **May 2014 – May 2015**.
 
+📌 The original assignment can be found here: [Ironhack Mini Project – ML Regression](https://github.com/ironhack-labs/mini-project-dsai-ml-regression)
+
 ---
 
 ## 📌 Objectives
